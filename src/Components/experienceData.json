@@ -1,0 +1,17 @@
+{
+    "experiences": [
+      {
+        "title": "Packaged App Development Intern",
+        "company": "Accenture",
+        "description": "Learning and implementing new concepts in AI, ML, and cloud computing to enhance application functionality. Exploring no-code/low-code platforms to streamline development processes and enhance productivity.",
+        "duration": "May 2024 - July 2024"
+      },
+      {
+        "title": "Project Intern",
+        "company": "Nandha Infotech, Coimbatore",
+        "description": "Designed a robust database structure for the Garage Management System using MySQL. Learned to create tables, define relationships, and optimize queries for efficient data handling. Gained insights into the end-to-end process flow of a garage management system.",
+        "duration": "Dec 2023 - Jan 2024"
+      }
+    ]
+  }
+  

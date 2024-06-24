@@ -1,0 +1,56 @@
+
+[
+    {
+      "category": "Programming Languages",
+      "skills": [
+        { "name": "Java", "proficiency": 90 },
+        { "name": "Python", "proficiency": 85 }
+      ]
+    },
+    {
+      "category": "Software Development",
+      "skills": [
+        { "name": "Object-Oriented Programming (OOP)", "proficiency": 80 },
+        { "name": "Data Structures and Algorithms", "proficiency": 75 }
+      ]
+    },
+    {
+      "category": "Web Development and Testing",
+      "skills": [
+        { "name": "HTML, CSS", "proficiency": 70 },
+        { "name": "React.js,Spring Boot", "proficiency": 65 }
+      ]
+    },
+    {
+      "category": "Database Management",
+      "skills": [
+        { "name": "MySQL", "proficiency": 80 }
+      ]
+    },
+    {
+      "category": "Version Control",
+      "skills": [
+        { "name": "GitHub", "proficiency": 75 }
+      ]
+    },
+    {
+      "category": "Cloud Services",
+      "skills": [
+        { "name": "AWS Basics", "proficiency": 50 }
+      ]
+    },
+    {
+      "category": "Automation - (RPA)",
+      "skills": [
+        { "name": "Blue Prism (Basics)", "proficiency": 45 }
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "skills": [
+        { "name": "Teamwork", "proficiency": 85 },
+        { "name": "Leadership", "proficiency": 80 }
+      ]
+    }
+  ]
+  
